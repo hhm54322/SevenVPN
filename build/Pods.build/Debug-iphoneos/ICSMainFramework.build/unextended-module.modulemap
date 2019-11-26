@@ -1,0 +1,10 @@
+framework module ICSMainFramework {
+  umbrella header "ICSMainFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module ICSMainFramework.__Swift {
+    exclude header "ICSMainFramework-Swift.h"
+}

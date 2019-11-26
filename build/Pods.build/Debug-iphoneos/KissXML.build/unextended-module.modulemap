@@ -1,0 +1,10 @@
+framework module KissXML {
+  umbrella header "KissXML-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module KissXML.__Swift {
+    exclude header "KissXML-Swift.h"
+}

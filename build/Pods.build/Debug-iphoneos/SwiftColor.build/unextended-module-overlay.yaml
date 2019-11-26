@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/huanghuimin/Desktop/Potatso_haxpor/Potatso/build/Debug-iphoneos/SwiftColor/SwiftColor.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/huanghuimin/Desktop/Potatso_haxpor/Potatso/build/Pods.build/Debug-iphoneos/SwiftColor.build/unextended-module.modulemap',
+    }]
+  }]
+}

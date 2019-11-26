@@ -1,0 +1,10 @@
+framework module PSOperations {
+  umbrella header "PSOperations-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module PSOperations.Swift {
+    header "PSOperations-Swift.h"
+}
